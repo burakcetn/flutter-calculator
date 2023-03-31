@@ -4,13 +4,9 @@ A new Flutter calculator project for learning flutter fundamentals
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- This project isn't design as a responsive. Maybe later, this feature can be added to project.
+- It is working well on 14 pro max
+- +/- feature is bugged right now. I will work for it when i have freetime.
+- AC button is working in two ways ;
+   onTap: delete the user input one by one
+   onLongPressed: delete all the user input and answer
